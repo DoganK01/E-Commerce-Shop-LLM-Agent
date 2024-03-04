@@ -2,7 +2,7 @@
 
 ## Code is private
 
-## Some examples of the algorithm made with Chrome extension and Asana
+## Some examples of the algorithm made with Chrome extension and Asana using some RAG techniques
 
 ![image](https://github.com/DoganK01/E-Commerce-Shop-LLM-Agent/assets/98788987/3e63bcb1-778a-4fbf-926f-c22b72274814)
 
